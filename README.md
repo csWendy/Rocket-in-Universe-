@@ -7,6 +7,8 @@ Press 's' to seperate the parts of rocket.
 Press 'r' to run the program again. 
 Have fun. 
 
+This project studied "harry1357931/SpaceShuttle-3DAnimation-OpenGL" when made. 
+
 
 
 
